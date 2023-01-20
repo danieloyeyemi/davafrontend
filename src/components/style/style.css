@@ -1,0 +1,65 @@
+.sign{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    justify-content: center;
+    height: 50px;
+}
+
+.pic3{
+    margin-left: 2px;
+    height: 120px;
+    margin-top: -35px;
+}
+#hom{
+    width: 30px;
+    height: auto;
+}
+video{
+    width: 200px;
+    height: auto;
+}
+#don{
+    text-align: center;
+    border: 2px solid red;
+}
+.get{
+    text-align: center;
+}
+.justify{
+    display: flex;
+    justify-content: center;
+}
+#text{
+    margin-left: 100px;
+}
+#head{
+    width: 50px;
+    border-radius: 50px;
+}
+#cardpic{
+    height: 350px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+}
+.pict{
+    margin-left: -150px;
+}
+.pic{
+    margin-left: -150px;
+}
+.dl{
+    text-decoration: none;
+}
+.time{
+    margin-top: -3px;
+}
+.name{
+    margin-top: -5px;
+}
+#cont{
+    margin: 2px soliod red;
+}
