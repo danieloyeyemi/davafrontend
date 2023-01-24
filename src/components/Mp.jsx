@@ -51,7 +51,7 @@ function Mp() {
               return (
                   <>
                   <Navbar2/>
-                   {/* <center><Link className='text-decoration-none' to="/userlogin">Login</Link> to continue</center> */}
+                   <center><Link className='text-decoration-none' to="/userlogin">Login</Link> to continue</center>
                   <div className="flexitems ">
                   {Allitems.map((val, i) => (
                     <div key={i}>

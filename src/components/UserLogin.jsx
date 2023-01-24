@@ -46,7 +46,8 @@ function UserLogin() {
             <Navbar />
             <div className="section container-fluid">
                 <div className="row justify-content-center bg-primary">
-                    {/* <center><i><Link className='smat text-decoration-none d-sm-none d-block sign  text-light' to="/user"><button className='btnsmat'>Signup</button></Link></i></center> */}
+                    <center><i className='text-muted'>Don't have an account! click on SignUp</i></center>
+                    <center><i><Link className='text-decoration-none d-sm-none d-block text-light' to="/user"><button type="button" class="btn btn-primary">Signup</button></Link></i></center>
                     <div className="alert text-light"><h3>{message1}</h3></div>
                     <div className="col-md-6 bg-primary">
                         <div className="checkout-form w-100 mx-auto bg-primary">
