@@ -65,24 +65,6 @@ function UserLogin() {
                     </div>
                 </div>
             </div>
-            {/* <div className="section container-fluid">
-                <div className="row justify-content-center">
-                    <div className="col-md-6">
-                        <div className="checkout-form w-75 mx-auto">
-                            <div className="alert"> {message} </div>
-                            <div className="checkout-field">
-                                <label>Username</label>
-                                <input type="text" placeholder="Username" name="username" onChange={e => setUsername(e.target.value)} value={username} />
-                            </div>
-                            <div className="checkout-field">
-                                <label>Password</label>
-                                <input type="password" placeholder="Password" name="password" onChange={e => setPassword(e.target.value)} value={password} />
-                            </div>
-                            <button className="paystack-button" onClick={logUserIn}>Start Shopping</button>
-                        </div>
-                    </div>
-                </div>
-            </div> */}
             <Footer />
         </>
     )
